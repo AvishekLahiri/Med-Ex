@@ -40,7 +40,7 @@ The SRS can be found in the root directory. The consequent data flow diagram for
 A source code for the software prototype can be found in the /src/ directory. To run the software, one can run the following command in terminal.
 
 ```shell
-git clone https://github.com/dassarthak18/Med-Ex.git
+git clone https://github.com/iacs-csu-2020/Med-Ex.git
 cd Med-Ex/src
 sudo chmod u+x run_tool.sh
 ./run_tool.sh
